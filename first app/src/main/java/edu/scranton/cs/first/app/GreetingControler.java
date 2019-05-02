@@ -1,4 +1,4 @@
-package edu.scranton.cs.first.app;
+package edu.scranton.cs.firstapp;
 
 
 import java.util.concurrent.atomic.AtomicLong;
